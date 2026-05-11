@@ -26,7 +26,7 @@ A portable agent skill describing how to read this content properly is at `_ops/
 
 ## Last sync
 
-- Synced at: 2026-05-10T21:06:56Z
+- Synced at: 2026-05-11T20:17:19Z
 - Pages published: 0
 - Pages unchanged: 0
 - Pages blocked (failed publication gates): 0
